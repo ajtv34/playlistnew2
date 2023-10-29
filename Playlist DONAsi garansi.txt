@@ -1108,7 +1108,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.m
 #EXTINF:-1 group-title="INDONESIA" tvg-id="TVONE" tvg-logo="https://i-meatballs.bunkr.ru/20231005_130923-Kgofu73v.jpg?download=true",TVONE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="USEE PRIME" tvg-logo="https://i-burger.bunkr.ru/usee-tv-02hL5cNV.jpg?download=true",USEE PRIME
 https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
@@ -1152,7 +1152,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 http://103.30.87.238:443/caknur/segopecel/858
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://i-meatballs.bunkr.ru/20231005_130441-0axF8l7G.jpg?download=true",GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
