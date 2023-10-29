@@ -1150,8 +1150,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #EXTINF:-1 group-title="INDONESIA" tvg-id="MNC TV" tvg-logo="https://i-meatballs.bunkr.ru/20231005_130217-RWjxmi6Q.jpg?download=true",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
+https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 http://103.30.87.238:443/caknur/segopecel/858
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://i-meatballs.bunkr.ru/20231005_130441-0axF8l7G.jpg?download=true",GTV
