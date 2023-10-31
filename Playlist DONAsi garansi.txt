@@ -1139,7 +1139,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa86
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i-meatballs.bunkr.ru/20231005_124831-9ERsxUo3.jpg?download=true" group-title="INDONESIA",SCTV 1
-https://iptvme.xyz/vid/hls.m3u8?id=205
+https://iptvme.xyz/vid/hls.m3u8?id=204
 
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/nusantara-3IYJO214.jpg?download=true" group-title="INDONESIA",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
