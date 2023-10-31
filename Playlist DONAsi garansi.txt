@@ -1139,7 +1139,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa86
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i-meatballs.bunkr.ru/20231005_124831-9ERsxUo3.jpg?download=true" group-title="INDONESIA",SCTV 1
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
+https://iptvme.xyz/vid/hls.m3u8?id=205
 
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/nusantara-3IYJO214.jpg?download=true" group-title="INDONESIA",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
@@ -1154,20 +1154,21 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-http://103.30.87.238:443/caknur/segopecel/858
+
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://i-meatballs.bunkr.ru/20231005_130441-0axF8l7G.jpg?download=true",GTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-http://iptvtree.net:8080/minionbob/e76dcbdc11/157578
 http://mangga-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i-burger.bunkr.ru/mentari-3IQvwB8F.jpg?download=true",Mentari TV
-http://103.30.87.238:443/caknur/segopecel/5372
-https://iptvme.xyz:443/vid/hls.m3u8?id=8237
+
 
 #EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/20231005_130622-R0wEGHwK.jpg?download=true" group-title="INDONESIA",NET
-https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
 
 ###########TVRI##########
 
